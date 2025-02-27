@@ -6,9 +6,9 @@
 
 ## 🌈 Sobre Mim  
 
-<p>🎓 Cursando o **6º período de Análise e Desenvolvimento de Sistemas** na Universidade Paranaense.</p> 
-<p>🎓 Formada em Tecnologia em Gestão Comercial pelo Centro Universitário Univel.</p>
-<p>📚 Atualmente me aprofundando em **Análise de Teste, QA, Angular e desenvolvimento Front-End**.</p>
+🎓 Cursando o **6º período de Análise e Desenvolvimento de Sistemas** na Universidade Paranaense.
+🎓 Formada em Tecnologia em Gestão Comercial pelo Centro Universitário Univel.
+📚 Atualmente me aprofundando em **Análise de Teste, QA, Angular e desenvolvimento Front-End**.
 
 💼 **LinkedIn**: [Maria Eduarda Nava](https://www.linkedin.com/in/maria-eduarda-nava/)
 <div align="center">
