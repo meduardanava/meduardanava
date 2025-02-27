@@ -2,10 +2,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/meduardanava/meduardanava/main/rainbow.gif" width="100%" height="5px">
-</div>
-
 ## 🌈 Sobre Mim  
   Meu nome é Maria Eduarda, tenho 25 anos,  
 🎓 Cursando o **6º período de Análise e Desenvolvimento de Sistemas** na Universidade Paranaense.  
