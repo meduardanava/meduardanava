@@ -1,7 +1,7 @@
 <h1 align="center">Seja bem-vindo(a) ao meu perfil!</h1>
 
 ## 🌈 Sobre Mim  
-<p align="center">
+
   Meu nome é Maria Eduarda, tenho 25 anos,  
 🎓 Cursando o **6º período de Análise e Desenvolvimento de Sistemas** na Universidade Paranaense.  
 🎓 Formada em Tecnologia em Gestão Comercial pelo Centro Universitário Univel.  
@@ -11,7 +11,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/meduardanava/meduardanava/main/rainbow.gif" width="100%" height="5px">
 </div>
-</p>
 
 ---
 
