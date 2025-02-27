@@ -2,11 +2,11 @@
 
 ## 🌈 Sobre Mim  
 
-  Meu nome é Maria Eduarda, tenho 25 anos,  
+  Meu nome é Maria Eduarda e tenho 25 anos  
 
     
-  🎓 Cursando o **6º período de Análise e Desenvolvimento de Sistemas** na Universidade Paranaense.  
-  🎓 Formada em Tecnologia em Gestão Comercial pelo Centro Universitário Univel.  
+  🎓 Cursando o **6º período de Tecnologia em Análise e Desenvolvimento de Sistemas** na Universidade Paranaense.  
+  🎓 Formada em **Tecnologia em Gestão Comercial** pelo Centro Universitário Univel.  
   📚 Atualmente me aprofundando em **Análise de Teste, QA, Angular e desenvolvimento Front-End**.  
 
 💼 **LinkedIn**: [Maria Eduarda Nava](https://www.linkedin.com/in/maria-eduarda-nava/)
@@ -32,5 +32,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="120px">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nHRgZZn4/giphy.gif" width="120px">
 </p>
