@@ -1,4 +1,5 @@
-<h1>Olá, bem vindo</h1>
+<h1 align="center"><font color="#FF69B4">Seja bem-vindo(a) ao meu perfil!</font></h1>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/meduardanava/meduardanava/main/rainbow.gif" width="100%" height="5px">
