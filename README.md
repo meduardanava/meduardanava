@@ -4,16 +4,15 @@
   <img src="https://raw.githubusercontent.com/meduardanava/meduardanava/main/rainbow.gif" width="100%" height="5px">
 </div>
 
-## 📚 Sobre Mim  
-🎓 Acadêmica do **6º período de Análise e Desenvolvimento de Sistemas** na Universidade Paranaense.  
-🔍 Atualmente me aprofundando em **Análise de Teste, QA, Angular e desenvolvimento Front-End**.  
+## 🌈 Sobre Mim  
+🎓 Cursando o **6º período de Análise e Desenvolvimento de Sistemas** na Universidade Paranaense. 
+🎓 Formada em Tecnologia em Gestão Comercial pelo Centro Universitário Univel.
+📚 Atualmente me aprofundando em **Análise de Teste, QA, Angular e desenvolvimento Front-End**.  
 
 💼 **LinkedIn**: [Maria Eduarda Nava](https://www.linkedin.com/in/maria-eduarda-nava/)
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/meduardanava/meduardanava/main/rainbow.gif" width="100%" height="5px">
 </div>
-
 ---
 
 ## 📊 Minhas Estatísticas  
