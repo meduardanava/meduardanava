@@ -11,16 +11,14 @@
 
 💼 **LinkedIn**: [Maria Eduarda Nava](https://www.linkedin.com/in/maria-eduarda-nava/)
 
-
 ---
 
 ## 📊 Minhas Estatísticas  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meduardanava&show_icons=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=ADD8E6&border_color=FF69B4" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meduardanava&layout=compact&langs_count=8&bg_color=0D1117&title_color=FF69B4&text_color=ADD8E6&border_color=FF69B4" alt="Linguagens mais usadas">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meduardanava&theme=dark&background=0D1117&border=FF69B4&stroke=FF69B4&ring=ADD8E6&fire=FF69B4&currStreakLabel=ADD8E6&sideNums=FF69B4&sideLabels=ADD8E6"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=meduardanava&show_icons=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=ADD8E6&border_color=FF69B4" alt="GitHub Stats" width="400px" height="200px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meduardanava&layout=compact&langs_count=8&bg_color=0D1117&title_color=FF69B4&text_color=ADD8E6&border_color=FF69B4" alt="Linguagens mais usadas" width="400px" height="200px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meduardanava&theme=dark&background=0D1117&border=FF69B4&stroke=FF69B4&ring=ADD8E6&fire=FF69B4&currStreakLabel=ADD8E6&sideNums=FF69B4&sideLabels=ADD8E6" width="400px" height="200px"/>
 <p align="center">
 
 ---
