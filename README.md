@@ -32,5 +32,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nHRgZZn4/giphy.gif" width="120px">
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="120px">
 </p>
