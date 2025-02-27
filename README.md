@@ -6,7 +6,7 @@
 
 ## 🌈 Sobre Mim  
 
-🎓 Cursando o **6º período de Análise e Desenvolvimento de Sistemas** na Universidade Paranaense. 
+🎓 Cursando o __6º período de Análise e Desenvolvimento de Sistemas__ na Universidade Paranaense. 
 🎓 Formada em Tecnologia em Gestão Comercial pelo Centro Universitário Univel.
 📚 Atualmente me aprofundando em **Análise de Teste, QA, Angular e desenvolvimento Front-End**.  
 
