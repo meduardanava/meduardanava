@@ -1,8 +1,4 @@
-<h1 align="center">🌸 Maria Eduarda Nava 🌸</h1>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meduardanava&theme=tokyonight" alt="GitHub Profile Summary">
-</p>
+<h1 align="center">Maria Eduarda Nava</h1>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/meduardanava/meduardanava/main/rainbow.gif" width="100%" height="5px">
@@ -30,17 +26,13 @@
 
 ---
 
-## 🛠 Ferramentas que já explorei  
-
-<h3 align="center">🚀 Tecnologias e Ferramentas</h3>
+## 🛠 Tecnologias e Ferramentas 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,angular,arduino,figma,webstorm,idea" alt="Linguagens" width="450px">
 </p>
 
 ---
-
-<h3 align="center">🐤 Um patinho estiloso para te animar! 🎩</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="120px">
