@@ -3,6 +3,8 @@
 ## 🌈 Sobre Mim  
 
   Meu nome é Maria Eduarda, tenho 25 anos,  
+
+    
   🎓 Cursando o **6º período de Análise e Desenvolvimento de Sistemas** na Universidade Paranaense.  
   🎓 Formada em Tecnologia em Gestão Comercial pelo Centro Universitário Univel.  
   📚 Atualmente me aprofundando em **Análise de Teste, QA, Angular e desenvolvimento Front-End**.  
