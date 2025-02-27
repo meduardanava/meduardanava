@@ -1,9 +1,7 @@
 <h1 align="center">Maria Eduarda Nava</h1>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/meduardanava/meduardanava/main/rainbow.gif" width="100%" height="5px">
 </div>
-
 ## 🌈 Sobre Mim  
 🎓 Cursando o **6º período de Análise e Desenvolvimento de Sistemas** na Universidade Paranaense. 
 🎓 Formada em Tecnologia em Gestão Comercial pelo Centro Universitário Univel.
