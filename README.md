@@ -1,7 +1,5 @@
 <h1 align="center">Seja bem-vindo(a) ao meu perfil!</h1>
 
----
-
 ## 🌈 Sobre Mim  
   Meu nome é Maria Eduarda, tenho 25 anos,  
 🎓 Cursando o **6º período de Análise e Desenvolvimento de Sistemas** na Universidade Paranaense.  
