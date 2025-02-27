@@ -1,4 +1,4 @@
-<h1 align="center"><font color="#FF69B4">Seja bem-vindo(a) ao meu perfil!</font></h1>
+<h1 align="center">Seja bem-vindo(a) ao meu perfil!</h1>
 
 ---
 
