@@ -1,112 +1,29 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu GitHub Stats</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #121212;
-            color: white;
-            text-align: center;
-            margin: 0;
-            padding: 0;
-        }
+# Maria Eduarda Nava 🌸
 
-        h1, h2 {
-            color: #a736f7;
-        }
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meduardanava&theme=tokyonight" alt="GitHub Profile Summary">
+</div>
 
-        .container {
-            max-width: 800px;
-            margin: auto;
-            padding: 20px;
-        }
+## 📚 Sobre Mim
+🎓 Acadêmica do **6º período de Análise e Desenvolvimento de Sistemas** na Universidade Paranaense.  
+🔍 Atualmente me aprofundando em **Análise de Teste, QA, Angular e desenvolvimento Front-End**.
 
-        .rainbow-line {
-            width: 100%;
-            height: 5px;
-            background: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet);
-            background-size: 400% 400%;
-            animation: rainbow 4s linear infinite;
-        }
+💼 **LinkedIn**: [Maria Eduarda Nava](https://www.linkedin.com/in/maria-eduarda-nava/)
 
-        @keyframes rainbow {
-            0% { background-position: 0% 50%; }
-            50% { background-position: 100% 50%; }
-            100% { background-position: 0% 50%; }
-        }
+---
 
-        .about-me {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            gap: 10px;
-            margin-bottom: 20px;
-        }
+## 📊 Estatísticas do GitHub  
 
-        .profile-pic {
-            width: 120px;
-            height: 120px;
-            border-radius: 50%;
-            border: 3px solid #a736f7;
-            box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.3);
-        }
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meduardanava&show_icons=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=ADD8E6&border_color=FF69B4" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meduardanava&theme=dark&background=0D1117&border=FF69B4&stroke=FF69B4&ring=ADD8E6&fire=FF69B4&currStreakLabel=ADD8E6&sideNums=FF69B4&sideLabels=ADD8E6"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meduardanava&layout=compact&langs_count=8&bg_color=0D1117&title_color=FF69B4&text_color=ADD8E6&border_color=FF69B4" alt="Linguagens mais usadas">
+</div>
 
-        .social-links a {
-            margin: 10px;
-            text-decoration: none;
-            font-size: 24px;
-            color: #a736f7;
-            transition: 0.3s;
-        }
+---
 
-        .social-links a:hover {
-            color: #ffcc00;
-        }
+## 🛠 Ferramentas que já explorei
 
-        img {
-            width: 100%;
-            max-width: 600px;
-            margin: 10px 0;
-            border-radius: 10px;
-            box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.3);
-        }
-    </style>
-</head>
-<body>
-
-    <div class="container">
-        <h1>Maria Eduarda Nava</h1>
-        <div class="rainbow-line"></div>
-
-        <div class="about-me">
-            <p>Acadêmica do 6º período de Análise e Desenvolvimento de Sistemas na Universidade Paranaense.</p>
-            <p>Buscando conhecimento na área da Tecnologia</p>
-            <p>📚 Atualmente estou me aprofundando em <strong>Análise de Teste, QA, Angular e desenvolvimento Front-End</strong>.</p>
-            
-            <div class="social-links">
-                <a href="https://www.linkedin.com/in/maria-eduarda-nava/" target="_blank">💼 LinkedIn</a>
-            </div>
-        </div>
-
-        <h1>📊 Estatísticas do GitHub</h1>
-        <div class="rainbow-line"></div>
-
-        <img src="https://github-readme-stats.vercel.app/api?username=meduardanava&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats">
-        
-        <h2>🚀 Linguagens Mais Usadas</h2>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meduardanava&layout=compact&langs_count=8&theme=radical" alt="Linguagens mais usadas">
-        
-        <h2>📈 Gráfico de Commits</h2>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=meduardanava&theme=github-dark" alt="GitHub Contributions Graph">
-        
-        <h2>🌍 Linguagens que já explorei</h2>
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,angular" alt="Linguagens">
-
-        <div class="rainbow-line"></div>
-    </div>
-
-</body>
-</html>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,angular,arduino,figma,webstorm,idea" alt="Linguagens" width="400px">
+</div>
