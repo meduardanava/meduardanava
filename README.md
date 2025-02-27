@@ -14,6 +14,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/meduardanava/meduardanava/main/rainbow.gif" width="100%" height="5px">
 </div>
+
 ---
 
 ## 📊 Minhas Estatísticas  
