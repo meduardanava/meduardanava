@@ -1,6 +1,7 @@
 <h1 align="center">Seja bem-vindo(a) ao meu perfil!</h1>
 
 ## 🌈 Sobre Mim  
+<p align="center">
   Meu nome é Maria Eduarda, tenho 25 anos,  
 🎓 Cursando o **6º período de Análise e Desenvolvimento de Sistemas** na Universidade Paranaense.  
 🎓 Formada em Tecnologia em Gestão Comercial pelo Centro Universitário Univel.  
@@ -10,6 +11,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/meduardanava/meduardanava/main/rainbow.gif" width="100%" height="5px">
 </div>
+<p align="center">
 
 ---
 
@@ -20,7 +22,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meduardanava&layout=compact&langs_count=8&bg_color=0D1117&title_color=FF69B4&text_color=ADD8E6&border_color=FF69B4" alt="Linguagens mais usadas">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meduardanava&theme=dark&background=0D1117&border=FF69B4&stroke=FF69B4&ring=ADD8E6&fire=FF69B4&currStreakLabel=ADD8E6&sideNums=FF69B4&sideLabels=ADD8E6"/>
 
-</p>
+<p align="center">
 
 ---
 
