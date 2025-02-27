@@ -1,11 +1,13 @@
-<h1 align="center">Maria Eduarda Nava</h1>
+<h1>Olá, bem vindo</h1>
 
 <div align="center">
+  ✨✨✨ 
   <img src="https://raw.githubusercontent.com/meduardanava/meduardanava/main/rainbow.gif" width="100%" height="5px">
+  ✨✨✨ 
 </div>
 
 ## 🌈 Sobre Mim  
-  Tenho 25 anos
+  Meu nome é Maria Eduarda, tenho 25 anos,  
 🎓 Cursando o **6º período de Análise e Desenvolvimento de Sistemas** na Universidade Paranaense.  
 🎓 Formada em Tecnologia em Gestão Comercial pelo Centro Universitário Univel.  
 📚 Atualmente me aprofundando em **Análise de Teste, QA, Angular e desenvolvimento Front-End**.  
