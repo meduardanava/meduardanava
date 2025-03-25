@@ -16,10 +16,10 @@
 ## 📊 Minhas Estatísticas  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meduardanava&show_icons=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=ADD8E6&border_color=FF69B4&include_all_commits=true&count_private=true&locale=pt-br" alt="GitHub Stats" width="auto" height="180px" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meduardanava&layout=compact&langs_count=8&bg_color=0D1117&title_color=FF69B4&text_color=ADD8E6&border_color=FF69B4&include_all_commits=true&count_private=true&locale=pt-br" alt="Linguagens mais usadas" width="auto" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api?username=meduardanava&show_icons=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=ADD8E6&border_color=FF69B4&include_all_commits=true&count_private=true&locale=pt-br&token=GH_STATS_TOKEN" alt="GitHub Stats" width="auto" height="180px" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meduardanava&layout=compact&langs_count=8&bg_color=0D1117&title_color=FF69B4&text_color=ADD8E6&border_color=FF69B4&include_all_commits=true&count_private=true&locale=pt-br&token=GH_STATS_TOKEN" alt="Linguagens mais usadas" width="auto" height="180px">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meduardanava&theme=dark&background=0D1117&border=FF69B4&stroke=FF69B4&ring=ADD8E6&fire=FF69B4&currStreakLabel=ADD8E6&sideNums=FF69B4&sideLabels=ADD8E6" width="auto" height="180px"/>
-<p align="center">
+</p>
 
 ---
 
