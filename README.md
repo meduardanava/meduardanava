@@ -4,8 +4,8 @@
 
   Meu nome é Maria Eduarda Nava e tenho 27 anos  
 
-  🎓 Cursando **Bacharelado em Engenharia de Software** pela Universidade Paranaense.                                                                                         
-  🎓 Formada em **Tecnologia em Análise e Desenvolvimento de Sistemas** pela Universidade Paranaense.  
+  🎓 Cursando **Bacharelado em Engenharia de Software** pela Universidade Paranaense.
+  🎓 Formada em **Tecnologia em Análise e Desenvolvimento de Sistemas** pela Universidade Paranaense.
   🎓 Formada em **Tecnologia em Gestão Comercial** pelo Centro Universitário Univel.  
   📚 Atualmente me aprofundando em **Análise de Teste, QA, Angular e Desenvolvimento Front-End**.  
 
