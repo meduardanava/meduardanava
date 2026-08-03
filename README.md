@@ -2,7 +2,7 @@
 
 ## 🌈 Sobre Mim  
 
-  Meu nome é Maria Eduarda e tenho 27 anos  
+  Meu nome é Maria Eduarda Nava e tenho 27 anos  
 
   🎓 Cursando **Bacharelado em Engenharia de Software** pela Universidade Paranaense.
   🎓 Formada em **Tecnologia em Análise e Desenvolvimento de Sistemas** pela Universidade Paranaense.  
