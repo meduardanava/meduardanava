@@ -7,7 +7,6 @@
   🎓 Cursando **Bacharelado em Engenharia de Software** pela Universidade Paranaense.
   🎓 Formada em **Tecnologia em Análise e Desenvolvimento de Sistemas** pela Universidade Paranaense.
   🎓 Formada em **Tecnologia em Gestão Comercial** pelo Centro Universitário Univel.  
-  📚 Atualmente me aprofundando em **Análise de Teste, QA, Angular e Desenvolvimento Front-End**.  
 
 💼 **LinkedIn**: [Maria Eduarda Nava](https://www.linkedin.com/in/maria-eduarda-nava/)
 
